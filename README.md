@@ -16,7 +16,7 @@ Este é um projeto simples de contador desenvolvido em React Native. Ele permite
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/contador-react-native.git`
+1. Clone o repositório: `git clone git@github.com:peVelosa/counter-react-native.git`
 2. Acesse o diretório do projeto: `cd contador-react-native`
 3. Instale as dependências: `npm install`
 
